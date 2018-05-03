@@ -2,7 +2,6 @@
 Tensorflow implementation of UCDAN
 
 ## Prepare data 
-
 cd data/
 
 tar -zxvf amazon.tar.gz
