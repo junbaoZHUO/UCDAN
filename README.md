@@ -4,9 +4,13 @@ Tensorflow implementation of UCDAN
 Prepare for data 
 
 cd data/
+
 tar -zxvf amazon.tar.gz
+
 tar -zxvf webcam.tar.gz
+
 tar -zxvf dslr.tar.gz
+
 
 Get AlexNet pretrained model via http://www.cs.toronto.edu/%7Eguerzhoy/tf_alexnet/bvlc_alexnet.npy
 
