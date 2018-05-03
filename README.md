@@ -1,7 +1,7 @@
 # UCDAN
 Tensorflow implementation of UCDAN
 
-##Prepare data 
+## Prepare data 
 
 cd data/
 
